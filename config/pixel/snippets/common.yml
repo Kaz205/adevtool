@@ -120,6 +120,28 @@ filters:
 
   files:
     match:
+      # P23/24
+      - product/priv-app/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02/DeviceIntelligenceNetworkPrebuilt-astrea_20240329.00_RC02.apk
+      - product/priv-app/CreativeAssistant/CreativeAssistant.apk
+      - product/app/CalculatorGooglePrebuilt_85005407/CalculatorGooglePrebuilt_85005407.apk
+      - product/priv-app/AICorePrebuilt-aicore_20240509.01_RC02/AICorePrebuilt-aicore_20240509.01_RC02.apk
+      - system_ext/priv-app/AvatarPickerGoogle/AvatarPickerGoogle.apk
+      - product/app/DevicePolicyPrebuilt-v10052480/DevicePolicyPrebuilt-v10052480.apk
+      - product/priv-app/GoogleRestorePrebuilt-v526684/GoogleRestorePrebuilt-v526684.apk
+      - product/app/MarkupGoogle_v2/MarkupGoogle_v2.apk
+      - product/priv-app/PixelAIPrebuilt/PixelAIPrebuilt.apk
+      - product/app/PrebuiltDeskClockGoogle_76004981/PrebuiltDeskClockGoogle_76004981.apk
+      - product/priv-app/RecorderPrebuilt_630544637/RecorderPrebuilt_630544637.apk
+      - product/priv-app/SafetyHubSuwPrebuilt/SafetyHubSuwPrebuilt.apk
+      - product/priv-app/ScribePrebuilt_v7.0.633113815/ScribePrebuilt_v7.0.633113815.apk
+      - product/priv-app/SearchSelectorPrebuilt/SearchSelectorPrebuilt.apk
+      - proprietary/system_ext/priv-app/SetupWizardPixelPrebuilt/SetupWizardPixelPrebuilt.apk
+      - proprietary/product/app/SoundAmplifierPrebuilt_v4.7.638126989/SoundAmplifierPrebuilt_v4.7.638126989.apk
+      - proprietary/product/app/SwitchAccessPrebuilt_1.15.0.629986523/SwitchAccessPrebuilt_1.15.0.629986523.apk
+      - product/priv-app/TetheringEntitlement/TetheringEntitlement.apk
+      - product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk
+      - product/app/arcore-1.42/arcore-1.42.apk
+
       # P21/22
       - product/app/WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk
 
