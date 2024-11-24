@@ -8,9 +8,6 @@ includes:
 filters:
   partitions:
     match:
-      # AOSP doesn't build chained vendor vbmeta by default
-      - vbmeta_vendor
-
       # TODO: add support for OTA firmware partitions
       - bl1
       - pbl
