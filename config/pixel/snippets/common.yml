@@ -135,9 +135,9 @@ filters:
       - product/priv-app/SafetyHubSuwPrebuilt/SafetyHubSuwPrebuilt.apk
       - product/priv-app/ScribePrebuilt_v7.0.633113815/ScribePrebuilt_v7.0.633113815.apk
       - product/priv-app/SearchSelectorPrebuilt/SearchSelectorPrebuilt.apk
-      - proprietary/system_ext/priv-app/SetupWizardPixelPrebuilt/SetupWizardPixelPrebuilt.apk
-      - proprietary/product/app/SoundAmplifierPrebuilt_v4.7.638126989/SoundAmplifierPrebuilt_v4.7.638126989.apk
-      - proprietary/product/app/SwitchAccessPrebuilt_1.15.0.629986523/SwitchAccessPrebuilt_1.15.0.629986523.apk
+      - system_ext/priv-app/SetupWizardPixelPrebuilt/SetupWizardPixelPrebuilt.apk
+      - product/app/SoundAmplifierPrebuilt_v4.7.638126989/SoundAmplifierPrebuilt_v4.7.638126989.apk
+      - product/app/SwitchAccessPrebuilt_1.15.0.629986523/SwitchAccessPrebuilt_1.15.0.629986523.apk
       - product/priv-app/TetheringEntitlement/TetheringEntitlement.apk
       - product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk
       - product/app/arcore-1.42/arcore-1.42.apk
