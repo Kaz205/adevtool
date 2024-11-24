@@ -141,6 +141,10 @@ filters:
       - product/priv-app/TetheringEntitlement/TetheringEntitlement.apk
       - product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk
       - product/app/arcore-1.42/arcore-1.42.apk
+      - vendor/etc/res/images/charger/battery_fail.png
+      - vendor/etc/res/images/charger/battery_scale.png
+      - vendor/etc/res/images/charger/main_font.png
+      - vendor/etc/res/values/charger/animation.txt
 
       # P21/22
       - product/app/WallpaperEmojiPrebuilt/WallpaperEmojiPrebuilt.apk
