@@ -118,6 +118,12 @@ filters:
 
   files:
     match:
+      # P23/24
+      - vendor/etc/res/images/charger/battery_fail.png
+      - vendor/etc/res/images/charger/battery_scale.png
+      - vendor/etc/res/images/charger/main_font.png
+      - vendor/etc/res/values/charger/animation.txt
+
       # P20
       - product/app/DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk
       - product/app/DeviceStatisticsService/DeviceStatisticsService.apk
