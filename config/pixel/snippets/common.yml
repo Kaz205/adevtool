@@ -120,6 +120,12 @@ filters:
 
   files:
     match:
+      # P23/24
+      - product/priv-app/AICorePrebuilt-aicore_20240509.01_RC02/AICorePrebuilt-aicore_20240509.01_RC02.apk
+      - product/priv-app/PixelAIPrebuilt/PixelAIPrebuilt.apk
+      - product/priv-app/SafetyHubSuwPrebuilt/SafetyHubSuwPrebuilt.apk
+      - product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk
+
       # P20
       - product/app/DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk
       - product/app/DeviceStatisticsService/DeviceStatisticsService.apk
