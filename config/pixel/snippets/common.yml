@@ -123,6 +123,11 @@ filters:
       - vendor/etc/res/images/charger/battery_scale.png
       - vendor/etc/res/images/charger/main_font.png
       - vendor/etc/res/values/charger/animation.txt
+      - product/priv-app/AICorePrebuilt-aicore_20240509.01_RC02/AICorePrebuilt-aicore_20240509.01_RC02.apk
+      - product/priv-app/CreativeAssistant/CreativeAssistant.apk
+      - product/priv-app/PixelAIPrebuilt/PixelAIPrebuilt.apk
+      - product/priv-app/SafetyHubSuwPrebuilt/SafetyHubSuwPrebuilt.apk
+      - product/priv-app/WeatherPixelPrebuilt_24D1/WeatherPixelPrebuilt_24D1.apk
 
       # P20
       - product/app/DevicePolicyPrebuilt/DevicePolicyPrebuilt.apk
