@@ -18,6 +18,8 @@ filters:
       - gsa
       - ldfw
       - modem
+      - gcf
+      - gsa_bl1
 
   dep_files:
     match:
