@@ -18,3 +18,11 @@ filters:
       - gsa
       - ldfw
       - modem
+      - gcf
+      - gsa_bl1
+
+  dep_files:
+    match:
+      # Required for building ARM NN HAL
+      - vendor/lib/libOpenCL.so
+      - vendor/lib64/libOpenCL.so
