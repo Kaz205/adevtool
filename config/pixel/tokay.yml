@@ -6,3 +6,9 @@ platform:
 
 includes:
   - snippets/2024.yml
+
+filters:
+  overlay_files:
+    match:
+      # Workaround for aapt2 output parsing bug
+      - HbmSVManager__auto_generated_rro_product.apk
