@@ -1,0 +1,14 @@
+device:
+  name: shiba
+
+platform:
+  product_makefile: device/google/shusky/aosp_shiba.mk
+
+includes:
+  - snippets/2023.yml
+
+filters:
+  overlay_files:
+    match:
+      # Workaround for aapt2 output parsing bug
+      - HbmSVManager__auto_generated_rro_product.apk
